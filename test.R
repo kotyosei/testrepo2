@@ -1,4 +1,6 @@
 # Load the igraph library
+# Well bro, you know what I mean. This is written when I am trying to connect my Rstudio to Github
+# And sincerely, this is cool.
 library(igraph)
 library(visNetwork)
 
